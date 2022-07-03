@@ -3,4 +3,3 @@ yellow
 orange
 white
 black
-red
